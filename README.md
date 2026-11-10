@@ -9,12 +9,6 @@ I’ve shipped several apps, services, and games with AI coding agents, using bo
 ## Contact
 
 <table>
-  <thead>
-    <tr>
-      <th scope="col" align="left">Contact details</th>
-      <th scope="col" align="center">Telegram QR · WeChat QR</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td>
@@ -26,8 +20,20 @@ I’ve shipped several apps, services, and games with AI coding agents, using bo
         </ul>
       </td>
       <td align="center">
-        <a href="./assets/telegram-qr.jpg"><img src="./assets/telegram-qr-compact.png" alt="Scan to contact me on Telegram" width="144"></a>
-        <a href="./assets/wechat-qr.jpg"><img src="./assets/wechat-qr-compact.png" alt="Scan to add me on WeChat" width="144"></a>
+        <table>
+          <tbody>
+            <tr>
+              <td align="center">
+                <a href="./assets/telegram-qr.jpg"><img src="./assets/telegram-qr-compact.png" alt="Scan to contact me on Telegram" width="144"></a>
+                <br><sub>Telegram</sub>
+              </td>
+              <td align="center">
+                <a href="./assets/wechat-qr.jpg"><img src="./assets/wechat-qr-compact.png" alt="Scan to add me on WeChat" width="144"></a>
+                <br><sub>WeChat</sub>
+              </td>
+            </tr>
+          </tbody>
+        </table>
       </td>
     </tr>
   </tbody>
