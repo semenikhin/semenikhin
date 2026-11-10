@@ -1,16 +1,18 @@
-## Hi there 👋
+# Dmitry Semenikhin
 
-<!--
-**semenikhin/semenikhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior backend engineer with 12+ years of experience. Payments and API integrations, mainly in PHP and Laravel.
 
-Here are some ideas to get you started:
+I build AI agents and their harnesses, with a focus on tool calling, persistent state, and debugging agent behavior from traces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ve shipped several apps, services, and games with AI coding agents, using both spec-driven development (SDD) and plan-first workflows.
+
+## Contact
+
+- Telegram · [@semenikhind](https://t.me/semenikhind)
+- Email · [semenikhind@gmail.com](mailto:semenikhind@gmail.com)
+- LinkedIn · [Dmitry Semenikhin](https://www.linkedin.com/in/dmitry-semenikhin-39237698/)
+- WeChat ID · `wxid_jcfp1wbjy0dy12`
+
+| Telegram | WeChat |
+| :---: | :---: |
+| <a href="./assets/telegram-qr.jpg"><img src="./assets/telegram-qr.jpg" alt="Scan to contact me on Telegram" width="240"></a> | <a href="./assets/wechat-qr.jpg"><img src="./assets/wechat-qr.jpg" alt="Scan to add me on WeChat" width="180"></a> |
