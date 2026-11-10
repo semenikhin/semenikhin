@@ -13,6 +13,12 @@ I’ve shipped several apps, services, and games with AI coding agents, using bo
 - LinkedIn · [Dmitry Semenikhin](https://www.linkedin.com/in/dmitry-semenikhin-39237698/)
 - WeChat ID · `wxid_jcfp1wbjy0dy12`
 
+<details>
+
+<summary>Show QR codes</summary>
+
 | Telegram | WeChat |
 | :---: | :---: |
 | <a href="./assets/telegram-qr.jpg"><img src="./assets/telegram-qr.jpg" alt="Scan to contact me on Telegram" width="240"></a> | <a href="./assets/wechat-qr.jpg"><img src="./assets/wechat-qr.jpg" alt="Scan to add me on WeChat" width="180"></a> |
+
+</details>
