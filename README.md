@@ -8,33 +8,10 @@ I’ve shipped several apps, services, and games with AI coding agents, using bo
 
 ## Contact
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <ul>
-          <li>Telegram · <a href="https://t.me/semenikhind">@semenikhind</a></li>
-          <li>Email · <a href="mailto:semenikhind@gmail.com">semenikhind@gmail.com</a></li>
-          <li>LinkedIn · <a href="https://www.linkedin.com/in/dmitry-semenikhin-39237698/">Dmitry Semenikhin</a></li>
-          <li>WeChat ID · <code>wxid_jcfp1wbjy0dy12</code></li>
-        </ul>
-      </td>
-      <td align="center">
-        <table>
-          <tbody>
-            <tr>
-              <td align="center">
-                <a href="./assets/telegram-qr.jpg"><img src="./assets/telegram-qr-compact.png" alt="Scan to contact me on Telegram" width="144"></a>
-                <br><sub>Telegram</sub>
-              </td>
-              <td align="center">
-                <a href="./assets/wechat-qr.jpg"><img src="./assets/wechat-qr-compact.png" alt="Scan to add me on WeChat" width="144"></a>
-                <br><sub>WeChat</sub>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<a href="./assets/wechat-qr.jpg"><img src="./assets/wechat-qr-labeled.svg" alt="Scan to add me on WeChat" align="right" width="144"></a>
+<a href="./assets/telegram-qr.jpg"><img src="./assets/telegram-qr-labeled.svg" alt="Scan to contact me on Telegram" align="right" width="144"></a>
+
+- Telegram · [@semenikhind](https://t.me/semenikhind)
+- Email · [semenikhind@gmail.com](mailto:semenikhind@gmail.com)
+- LinkedIn · [Dmitry Semenikhin](https://www.linkedin.com/in/dmitry-semenikhin-39237698/)
+- WeChat ID · `wxid_jcfp1wbjy0dy12`
