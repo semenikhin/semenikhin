@@ -8,11 +8,27 @@ I’ve shipped several apps, services, and games with AI coding agents, using bo
 
 ## Contact
 
-- Telegram · [@semenikhind](https://t.me/semenikhind)
-- Email · [semenikhind@gmail.com](mailto:semenikhind@gmail.com)
-- LinkedIn · [Dmitry Semenikhin](https://www.linkedin.com/in/dmitry-semenikhin-39237698/)
-- WeChat ID · `wxid_jcfp1wbjy0dy12`
-
-| Telegram | WeChat |
-| :---: | :---: |
-| <a href="./assets/telegram-qr.jpg"><img src="./assets/telegram-qr-compact.png" alt="Scan to contact me on Telegram" width="144"></a> | <a href="./assets/wechat-qr.jpg"><img src="./assets/wechat-qr-compact.png" alt="Scan to add me on WeChat" width="144"></a> |
+<table>
+  <thead>
+    <tr>
+      <th scope="col" align="left">Contact details</th>
+      <th scope="col" align="center">Telegram QR · WeChat QR</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li>Telegram · <a href="https://t.me/semenikhind">@semenikhind</a></li>
+          <li>Email · <a href="mailto:semenikhind@gmail.com">semenikhind@gmail.com</a></li>
+          <li>LinkedIn · <a href="https://www.linkedin.com/in/dmitry-semenikhin-39237698/">Dmitry Semenikhin</a></li>
+          <li>WeChat ID · <code>wxid_jcfp1wbjy0dy12</code></li>
+        </ul>
+      </td>
+      <td align="center">
+        <a href="./assets/telegram-qr.jpg"><img src="./assets/telegram-qr-compact.png" alt="Scan to contact me on Telegram" width="144"></a>
+        <a href="./assets/wechat-qr.jpg"><img src="./assets/wechat-qr-compact.png" alt="Scan to add me on WeChat" width="144"></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
